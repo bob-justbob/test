@@ -1,0 +1,27 @@
+body {
+    padding-left: 10px;
+ }
+ div {
+     border: 10px inset rgb(173 186 249);
+     width: 800px;
+     padding-left: 15px;
+ }
+ form {
+     padding-bottom: 10px;
+ }
+ input {
+     padding-bottom: 5px;
+     margin-bottom: 10px;
+ }
+ h1 {
+     font-size: 30px;
+     font-weight: bold;
+     margin-bottom: 5px;
+ }
+ img {
+     width: 400px;
+ }
+ 
+ .stretch {
+     width: 770px;
+ }
